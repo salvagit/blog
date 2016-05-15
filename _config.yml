@@ -10,7 +10,7 @@ title: salvadorp blog
 email: s@salvadorp.com
 description: > # this means to ignore newlines until "baseurl:"
   repositorios de conocimientos de tecnologia y desarrollo de software.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "http://salvagit.github.io/blog" # the subpath of your site, e.g. /blog
 url: "http://salvadorp.com" # the base hostname & protocol for your site
 twitter_username: salvitter
 github_username:  salvagit
