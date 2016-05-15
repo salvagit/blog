@@ -17,3 +17,12 @@ github_username:  salvagit
 
 # Build settings
 markdown: kramdown
+
+utterson_deploy:
+  production:
+    url: http://blog.salvadorp.com/
+    confirm: true
+    description: Production environment
+    commands:
+    - jekyll build
+    - git push
