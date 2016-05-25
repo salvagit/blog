@@ -6,3 +6,9 @@ categories: []
 published: true
 ---
 {{ site.time | date_to_xmlschema }}
+
+
+{% highlight javascript %}
+var foo = 'bar';
+console.log(foo);
+{% endhighlight %}
