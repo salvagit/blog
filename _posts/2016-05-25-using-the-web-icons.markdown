@@ -26,3 +26,6 @@ These should work in all the browsers, all the way down to and including IE7, bu
 [fo]: http://fontello.com/
 
 [icons]: /resources/img/icons.png "Available Icons"
+
+
+ex: <i class="icon-home"></i>
