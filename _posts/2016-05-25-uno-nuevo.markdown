@@ -12,3 +12,6 @@ published: true
 var foo = 'bar';
 console.log(foo);
 {% endhighlight %}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ts0NL_IRIrU" frameborder="0" allowfullscreen></iframe>
