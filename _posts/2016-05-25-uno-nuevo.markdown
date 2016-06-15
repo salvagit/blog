@@ -2,7 +2,7 @@
 layout: post
 title: post-a
 date: '2016-05-25 16:01:49'
-categories: []
+cat egories: []
 published: true
 ---
 {{ site.time | date_to_xmlschema }}
@@ -13,5 +13,6 @@ var foo = 'bar';
 console.log(foo);
 {% endhighlight %}
 
+![My helpful screenshot]({{ site.url }}assets/totoro-hula.gif)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ts0NL_IRIrU" frameborder="0" allowfullscreen></iframe>
