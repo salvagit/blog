@@ -10,8 +10,8 @@ title: salva.io blog
 email: s@salva.io
 description: > # this means to ignore newlines until "baseurl:"
   blog para liberarte.
-baseurl: "blog/" # the subpath of your site, e.g. /blog
-url: "salva.io/" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://salva.io" # the base hostname & protocol for your site
 twitter_username: salvitter
 github_username:  salvagit
 
@@ -20,7 +20,7 @@ markdown: kramdown
 
 utterson_deploy:
   production:
-    url: salva.io/blog/
+    url: http://salva.io/blog
     confirm: true
     description: Production environment
     commands:
