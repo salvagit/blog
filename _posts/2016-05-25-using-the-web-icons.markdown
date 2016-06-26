@@ -6,7 +6,7 @@ categories: []
 published: true
 ---
 This template uses [Typicons][ty] web font, provided by [Fontello][fo] font bundling service. It allows you to quickly
-add nice icons into your pages by using css tags. 
+add nice icons into your pages by using css tags.
 
 To add an icon somewhere in the template simply do:
 
@@ -25,7 +25,7 @@ These should work in all the browsers, all the way down to and including IE7, bu
 [ty]: http://typicons.com/
 [fo]: http://fontello.com/
 
-[icons]: /resources/img/icons.png "Available Icons"
+[icons]: /blog/resources/img/icons.png "Available Icons"
 
 
 ex: <i class="icon-home"></i>
