@@ -20,7 +20,7 @@ markdown: kramdown
 
 utterson_deploy:
   production:
-    url: salva.io/blog/
+    url: salva.io/blog
     confirm: true
     description: Production environment
     commands:
