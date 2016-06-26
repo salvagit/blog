@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: salvadorp blog
-email: s@salvadorp.com
+title: salva.io blog
+email: s@salva.io
 description: > # this means to ignore newlines until "baseurl:"
   blog para liberarte.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.salvadorp.com/" # the base hostname & protocol for your site
+url: "salva.io/blog/" # the base hostname & protocol for your site
 twitter_username: salvitter
 github_username:  salvagit
 
@@ -20,7 +20,7 @@ markdown: kramdown
 
 utterson_deploy:
   production:
-    url: http://blog.salvadorp.com/
+    url: salva.io/blog/
     confirm: true
     description: Production environment
     commands:
