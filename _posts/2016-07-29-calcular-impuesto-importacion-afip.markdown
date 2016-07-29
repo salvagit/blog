@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calcular impuesto de importacion AFIP.
+title: Calcular impuesto de importacion AFIP
 date: '2016-07-29 17:55:31'
 categories:
   - afip
