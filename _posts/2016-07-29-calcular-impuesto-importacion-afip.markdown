@@ -8,6 +8,6 @@ categories:
   - impuesto
 published: true
 ---
-Herramienta para calcular el impuesto.
+Herramienta para calcular el impuesto. [[aqui]](http://www.clarin.com/sociedad/Calcula-facil-precio-compra-puerta_0_1621637922.html)
 
-http://www.clarin.com/sociedad/Calcula-facil-precio-compra-puerta_0_1621637922.html
+![]({{site.baseurl}}/http://images.clarin.com/sociedad/calculadora-costo-compras-online_CLAIMA20160728_0171_28.jpg)
